@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.mechanizm-bg {
+    background-color: rgb(250,251,255);
+}
